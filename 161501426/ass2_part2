@@ -1,0 +1,70 @@
+<html>
+<head>
+  <center><img src="pp.jpeg" style="width:250px;height:250px;"> </center> 
+
+  <ul class="navigation">
+  <li><a href="ass2">Home</a></li>
+  <li><a href="2.page.html">2.page</a></li>
+   <li><a href="ass2_part3.html">3.page</a></li>
+   <li><a href="ass2_part4.html">4.page</a></li>
+    <li><a href="ass2_part5.html">5.page</a></li>
+ 
+ 
+</ul>
+
+<link rel="stylesheet" type="text/css" href="ass2.css">
+
+<style>
+h1 {text-shadow: 5px 5px 10px greenyellow;}
+h3{text-shadow: 8px 8px 5px greenyellow ;}
+p{ text-shadow: 12px 25px 10px lightpurple;}
+</style>
+
+<li>multicolumn layout</li>
+
+
+</head>
+<center><h3> <a href="blog_deneme.html">KÜBRA KILINÇ 161501426</a> </h3><center> 
+ <center>when you click to my name you!ll go to 1.st ass</center>
+  
+
+<head>
+<style>
+.newspaper {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /<body>
+
+<p><b>Note:</b> Internet Explorer 9, and earlier versions, does not support the column-rule property.</p>
+
+<div class="newspaper">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+</div>
+
+</body>* Firefox */
+    column-gap: 40px;
+    -webkit-column-rule: 1px solid lightblue; /* Chrome, Safari, Opera */
+    -moz-column-rule: 1px solid lightblue; /* Firefox */
+    column-rule: 1px solid lightblue;
+}
+</style>
+</head>
+<body>
+
+
+<div class="newspaper">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+</div>
+
+</body>
+
+
+
+
+
+</html>
+
+
+  

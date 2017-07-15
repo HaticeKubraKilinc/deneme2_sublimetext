@@ -1,0 +1,122 @@
+  <html>
+<head>
+  <center><img src="pp.jpeg" style="width:250px;height:250px;"> </center> 
+
+	<ul class="navigation">
+  <li><a href="ass2">Home</a></li>
+  <li><a href="ass2_part2">2.page</a></li>
+   <li><a href="ass2_part3.html">3.page</a></li>
+   <li><a href="ass2_part4.html">4.page</a></li>
+   
+    <li><a href="ass2_part5.html">5.page</a></li>
+ 
+ 
+</ul>
+
+
+<ul class="flex-container">
+  <li class="flex-item"> <img src="pp.jpeg"   style="width:80px;height:80px;"> </li>
+  <li class="flex-item">2</li>
+  <li class="flex-item">3</li>
+  <li class="flex-item">4</li>
+  <li class="flex-item">5</li>
+  <li class="flex-item">6</li>
+</ul>
+
+
+<link rel="stylesheet" type="text/css" href="ass2.css">
+
+
+<style>
+h1 {
+    text-shadow: 5px 5px 10px greenyellow;
+}
+h3{
+  text-shadow: 8px 8px 5px greenyellow
+  ;
+
+}
+p{
+  text-shadow: 12px 25px 10px lightpurple;
+
+}
+
+#grad1 {
+    height: 800px;
+    background: blue; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, #FFCCCC , #FF6600); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right,  #FFCCCC,#FF6600); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right,  #FFCCCC,#FF6600); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right,  #FFCCCC ,#FF6600); /* Standard syntax (must be last) */
+
+    }
+
+
+</style>
+
+<li>text shadow</li>
+<li> rounded corners</li>
+<li>flexible box model</li>
+<li>linear gradient(light orange to orange ,text written inside linear gradient)</li>
+<li>some writing color chance when user moves mouse and those ones have links</li>
+<li>and just text about culture </li>
+
+
+</head>
+
+
+<body>
+  
+ 
+
+<div id="grad1"> <center><h3> <a href="blog_deneme.html">KÜBRA KILINÇ 161501426</a> 
+  </h3></center> 
+  <center>when you click to my name you!ll go to 1.st ass</center>
+  <center><h3>We are ready to come together every time</h3> </center>
+ 
+<center><img src="ist.png"></center>
+
+
+
+<ul>
+
+If you come to Turkey or if you listen to someone who come to Turkey most probably , you’ll hear about us  “hospitableness”.
+
+
+ In my country there are maybe thousand reasons for coming together just one of them can be yes you have a free time cause of this you can coming together .. for our culture reason should me meanfull most of time
+I will try explain with a few examples
+
+
+When a someone married before wedding ceremony there is a few special day for coming together one of them organising just married person home day. A woman meets who are from girls and boy (bridal couple) and they helps to girls for organize to home during this organization time men generally don’t come to home woman with fun talking , try finish all work in the home … the other one when someone have a baby after 40th day baby’s family makes a kind of party and they makes delicious food and all guest makes a pray for that kids then there are many things that we can talk. Even normal day your neighbour can come suddenly no need to free time.
+
+
+Well why we are hospitable why we like this? The main reason is in our religion we believe that hospitableness is good deed. ☺ Furthermore, we love offering the food and we love to eat together, reason is same.  I wanna tell something too, when our neighbour come to our home (it can be just for talking) we can start making delicious foods together.
+
+
+Actually, we really care to make a food before some religious holidays woman come together and they make special foods together for example aşure, after we finish making aşure we offer to our neighbours but first poor ones. At the normally no need a special day for offerring foods.As I said before we love offering the food and we love to eat together. For living gentle, tolerant, in a peace we have to come together we have to share our happiness our sadness our food moreover if it necessary we have to share our clothes. For all these reasons we are coming together. Still, there are thousand beautiful events. I hope in the next articles me and my friends can reflect our cultures better.
+See you soon guys.
+
+
+</ul>
+
+
+
+<h3>
+    <a href="http://www.hku.edu.tr/"> HKU</a>
+  <A HREF="https://www.facebook.com/worldin360degrees/?ref=aymt_homepage_panel"> our international blog link</A>
+  </h3>
+  
+
+ <h1><a href="#">Text-shadow </a></h1>
+
+</div>
+</body>
+
+
+
+
+
+
+
+</html>
+
