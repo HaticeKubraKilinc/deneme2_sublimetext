@@ -1,0 +1,86 @@
+
+<html>
+<head>
+  <center><img src="pp.jpeg" style="width:250px;height:250px;"> </center> 
+
+  <ul class="navigation">
+  <li><a href="ass2">Home</a></li>
+  <li><a href="ass2_part2">2.page</a></li>
+   <li><a href="ass2_part3.html">3.page</a></li>
+     <li><a href="ass2_part4.html">4.page</a></li>
+ 
+</ul>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="ass2.css">
+
+
+<style>
+h1 {
+    text-shadow: 5px 5px 10px greenyellow;
+}
+h3{
+  text-shadow: 8px 8px 5px greenyellow
+  ;
+
+}
+p{
+  text-shadow: 12px 25px 10px lightpurple;
+
+}
+
+
+
+</style>
+
+<li>media quaries</li>
+<li>transformation</li>
+
+
+</head>
+
+ 
+<center><h3> <a href="blog_deneme.html">KÜBRA KILINÇ 161501426</a> 
+  </h3></center> 
+  <center>when you click to my name you!ll go to 1.st ass</center>
+  
+
+</body>
+
+
+
+<head>
+  <meta charset ="utf/8">
+<title>melting images</title>
+<style type="text/css">
+#cover{
+position: relative;
+margin: 0 auto;
+
+}
+#cover img{
+position: absolute;
+left: 0;
+
+  -webkit-transition: opacity 4s ease-in-out;
+  transition:opacity 4s ease-in-out;
+ 
+
+}
+#cover img.top.hover{
+  opacity: 0;
+}
+</style>
+
+</head>
+<body>
+<div id="cover"
+  <img class="bottom" src ="hku.png">
+  <img class="top" src ="hku.png">
+  </div>
+</body>
+
+</html>
